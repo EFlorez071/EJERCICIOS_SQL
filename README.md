@@ -1,2 +1,1 @@
-# EJERCICIOS_SQL
-ola
+
